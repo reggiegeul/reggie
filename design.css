@@ -1,0 +1,10 @@
+body{
+    background-image: url('bg.png');
+}
+.design{
+    text-align: center;
+    width: 80%;
+    margin: auto;
+    background-color: #F8EDE3;
+    border-radius: 10px;
+}
